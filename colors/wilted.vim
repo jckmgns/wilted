@@ -156,31 +156,6 @@ if g:wilted#palette == 'chicory'
   let s:fg0 = s:c8
 endif
 
-if g:wilted#palette == 'sunflower'
-  let s:c0 = '#edcdb0'
-  let s:c1 = '#dcb899'
-  let s:c2 = '#c9a17d'
-  let s:c3 = '#b78862'
-  let s:c4 = '#a4734c'
-  let s:c5 = '#40380A'
-  let s:c6 = '#BF8226'
-  let s:c7 = '#876E3D'
-  let s:c8 = '#421c00'
-
-  let s:re0 = s:c6
-  let s:gr0 = s:c5
-  let s:ye0 = s:c5
-  let s:bl0 = s:c7
-  let s:ma0 = s:c7
-  let s:cy0 = s:c7
-
-  let s:bg0 = s:c0
-  let s:bg1 = s:c1
-  let s:bg2 = s:c2
-  let s:fg1 = s:c4
-  let s:fg0 = s:c8
-endif
-
 " ---------------
 
 " }}}

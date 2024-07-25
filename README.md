@@ -27,7 +27,7 @@ execute "set t_8b=\e[48;2;%lu;%lu;%lum"
 
 Palettes can be configured using `g:wilted#palette`. Wilted uses `bouquet` by
 default, which features a full range of colors. The other palettes available
-are di- or trichromatic.
+are dichromatic.
 
 Example:
 
@@ -36,7 +36,7 @@ let g:wilted#palette = 'fuchsia'
 colorscheme wilted
 ```
 
-Available palettes: `bouquet, fuchsia, chicory, sunflower`
+Available palettes: `bouquet, fuchsia, chicory`
 
 ## Screenshots
 
@@ -51,10 +51,6 @@ Available palettes: `bouquet, fuchsia, chicory, sunflower`
 ### Chicory
 
 ![Chicory](https://i.imgur.com/vT9pdNJ.png)
-
-### Sunflower
-
-![Sunflower](https://i.imgur.com/J9ednfT.png)
 
 ## License
 
