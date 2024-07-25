@@ -108,14 +108,14 @@ endif
 
 if g:wilted#palette == 'fuchsia'
   let s:c0 = '#edcdb0'
-  let s:c1 = '#deb69b'
-  let s:c2 = '#cb9985'
-  let s:c3 = '#ba7f73'
-  let s:c4 = '#a65e5e'
-  let s:c5 = '#8d4954'
-  let s:c6 = '#76374c'
-  let s:c7 = '#5d2340'
-  let s:c8 = '#430f31'
+  let s:c1 = '#dcb398'
+  let s:c2 = '#c89a83'
+  let s:c3 = '#b57d6d'
+  let s:c4 = '#a15f59'
+  let s:c5 = '#86464f'
+  let s:c6 = '#6b3344'
+  let s:c7 = '#4d1e35'
+  let s:c8 = '#330a25'
 
   let s:re0 = s:c6
   let s:gr0 = s:c5
@@ -133,14 +133,14 @@ endif
 
 if g:wilted#palette == 'chicory'
   let s:c0 = '#edcdb0'
-  let s:c1 = '#dabba0'
-  let s:c2 = '#c5a88b'
-  let s:c3 = '#A98B70'
-  let s:c4 = '#87755a'
-  let s:c5 = '#6b6b4c'
-  let s:c6 = '#3b4c59'
-  let s:c7 = '#263945'
-  let s:c8 = '#142634'
+  let s:c1 = '#d8b89d'
+  let s:c2 = '#bfa187'
+  let s:c3 = '#a88d75'
+  let s:c4 = '#907c65'
+  let s:c5 = '#707057'
+  let s:c6 = '#41545d'
+  let s:c7 = '#2a3d4b'
+  let s:c8 = '#122636'
 
   let s:re0 = s:c6
   let s:gr0 = s:c5
